@@ -12,6 +12,7 @@
  *                                                                     
  *                                                                      
  *  >> CCE Student, Cyber-Security Enthusiast
+ *  >> Cyber-Security Intern
  *  >> Part-Time Instructor
  *  >>
  */ 
