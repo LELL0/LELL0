@@ -33,6 +33,7 @@
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://icongr.am/devicon/java-original-wordmark.svg" alt="Java" width="70" height="70"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/81851926/190683918-844607e9-8438-4ea3-9dec-65ed7d72f70d.svg" alt="Python" width="70" height="70"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://icongr.am/devicon/cplusplus-original.svg" alt="C++" width="70" height="70"/> </a>
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="C++" width="70" height="70"/> </a>
  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/> </a> 
   <a href="https://www.php.net/" target="_blank"> <img src="https://user-images.githubusercontent.com/81851926/190684336-af6c93d6-5b23-47d3-83cf-0b60199b2a47.svg" alt="PHP" width="70" height="70"/> </a>
     <a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="C#" width="70" height="70"/> </a>
