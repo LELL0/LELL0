@@ -11,8 +11,8 @@
  *       |______|______|______|______\____/ 
  *                                                                     
  *                                                                      
- *  >> CCE Student, Cyber-Security Enthusiast
- *  >> Cyber-Security Intern
+ *  >> Degree in Computer and Telecommunication Engineer (CCE)
+ *  >> Full-Time Cyber Security Engineer
  *  >> Part-Time Instructor
  *  >>
  */ 
