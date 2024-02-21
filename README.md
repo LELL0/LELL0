@@ -11,10 +11,10 @@
  *       |______|______|______|______\____/ 
  *                                                                     
  *                                                                      
- *  >> Degree in Computer and Telecommunication Engineer (CCE)
- *  >> Full-Time Cyber Security Engineer
- *  >> Part-Time Instructor
- *  >>
+ *  root:~# Degree in Computer and Telecommunication Engineer (CCE)
+ *  root:~# Full-Time Cyber Security Engineer
+ *  root:~# Part-Time Instructor
+ *  root:~# 
  */ 
 ```
 
