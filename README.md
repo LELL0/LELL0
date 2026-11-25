@@ -37,7 +37,7 @@ My work sits at the intersection of **security engineering** and **modern AI too
 ### 🛡️ Cybersecurity Engineer at Coordinates, Dubai, UAE *(Remote)* `Sep 2022 – Present`
 
 - Integrated **agentic AI models** into the SOC for threat detection, alert triage, and incident response, cutting analyst intervention by **~30%**
-- Developed **50+ Cortex XSOAR playbooks** and **15+ Python scripts** for SIEM, EDR, and WAF workflows, bringing triage from hours to minutes
+- Developed a large library of **Cortex XSOAR playbooks**, **automations**, and **integrations** for SIEM, EDR, and WAF workflows, bringing triage from hours to minutes
 - Built the **ASM platform from scratch** in Python with a distributed sensor-controller architecture and MongoDB backend, tracking **500+ external assets** across **3+ client environments**
 - Set up **REST integrations** with third-party security tools to unify log ingestion, detection enrichment, and remediation across client environments
 - Created **20+ offensive simulations** with automated scheduling for continuous external exposure visibility
@@ -64,7 +64,7 @@ Professional and client work, built in private or closed-source environments.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **🌐 Attack Surface Management Platform** | Enterprise ASM with remote controller, central server, and distributed sensor network over 500+ monitored assets. Automated reporting cut generation time by 60% | Python · Docker · MongoDB |
-| **⚡ XSOAR Automations & Integrations** | 50+ playbooks and 15+ custom automations wiring SIEM, EDR, and WAF into one response surface | Cortex XSOAR · Python · REST |
+| **⚡ XSOAR Automations & Integrations** | A large library of playbooks, custom automations, and integrations wiring SIEM, EDR, and WAF into one response surface | Cortex XSOAR · Python · REST |
 | **🎣 Phishing Check Flow** | End-to-end email inspection for malicious attachments, redirect chains, QR abuse (squishing), homoglyphs, impersonation, and spoofing | SOAR · Python · Email Security |
 | **🔎 Passive Asset Discovery** | Expected vs. observed coverage reconciliation to surface blindspots and missing log sources without noisy active scanning | SIEM · EDR · Python |
 | **🎬 AI Script to Animation Platform** | Zaka.ai collaboration: parses a text prompt into logical scenes, then generates images and 5s clips per scene | Python · Stable Video Diffusion |
