@@ -21,7 +21,7 @@
 
 ## 👋 About Me
 
-Cybersecurity and Automation Engineer with **5+ years of experience**, based in Lebanon and working remotely for enterprise clients in the UAE. I specialize in building security automation that scales, from incident response playbooks to AI-augmented SOC workflows.
+Cybersecurity and Automation Engineer with **5+ years of experience**, based in Lebanon and working hybrid in Beirut for Coordinates, a UAE security company serving enterprise clients. I specialize in building security automation that scales, from incident response playbooks to AI-augmented SOC workflows.
 
 My work sits at the intersection of **security engineering** and **modern AI tooling**. I was an early adopter of agentic AI within SOC environments, integrating LLMs for autonomous alert triage and threat intelligence enrichment before it became mainstream.
 
@@ -34,7 +34,7 @@ My work sits at the intersection of **security engineering** and **modern AI too
 
 ## 💼 Experience
 
-### 🛡️ Cybersecurity Engineer at Coordinates, Dubai, UAE *(Remote)* `Sep 2022 – Present`
+### 🛡️ Cybersecurity Engineer at Coordinates (UAE) · Beirut, Lebanon *(Hybrid)* `Sep 2022 – Present`
 
 - Integrated **agentic AI models** into the SOC for threat detection, alert triage, and incident response, cutting analyst intervention by **~30%**
 - Developed a large library of **Cortex XSOAR playbooks**, **automations**, and **integrations** for SIEM, EDR, and WAF workflows, bringing triage from hours to minutes
